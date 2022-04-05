@@ -1,0 +1,1 @@
+First project for the Odin Project. I believe this will revolve around creating a website that features recipes.
